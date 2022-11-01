@@ -1,3 +1,3 @@
-# Products Microservice
+# Product Microservice
 
-Products microservice built using Java and SpringBoot framework
+Product microservice built using Java and SpringBoot framework
